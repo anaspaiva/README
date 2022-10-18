@@ -2,7 +2,7 @@
   
 
 ## Rapidfire  
-<table><tr><td width="100%">
+<table><tr><td>
 
 - 🔭 I’m currently working on [Github](https://github.com/anaspaiva)  
   
