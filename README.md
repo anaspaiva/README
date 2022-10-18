@@ -1,33 +1,14 @@
 ## I'm Ana Letícia, a frontend developer 👩‍💻  
   
 
-<a href="https://github.com/anaspaiva" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/annacronico" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/analeticiapaiva" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/anaspaiva_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
 ## Rapidfire  
 <table><tr><td width="100%">
 
 - 🔭 I’m currently working on [Github](https://github.com/anaspaiva)  
   
-
 - 🌱 I’m currently learning JavaScript and AngularJS  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -40,26 +21,44 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>  
-
 <br/>  
 
 
 ## Github Stats  
 <table><tr><td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anaspaiva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anaspaiva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 80%" />
 
 </td><td  width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspaiva&hide_border=true&layout=compact" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspaiva&hide_border=true&layout=compact" align="left" style="width: 80%" />
+</td></tr></table> 
 
-</td></tr></table>  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=anaspaiva&&style=flat-square)  
-  
-<br/>  
+## Networks  
+<div align="center">
+<a href="https://github.com/anaspaiva" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/annacronico" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/analeticiapaiva" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/anaspaiva_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 ----
+
+<div align="center">
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=anaspaiva&&style=flat-square)
+
+<br/>  
+</div>
+  
 
