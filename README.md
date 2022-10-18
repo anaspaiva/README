@@ -1,4 +1,4 @@
-## I'm Ana Letícia, a beginner frontend developer 👩‍💻  
+## I'm Ana Letícia, a frontend developer 👩‍💻  
   
 
 <a href="https://github.com/anaspaiva" target="_blank">
