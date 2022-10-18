@@ -10,7 +10,7 @@
   
 - 📫 How to reach me: analeticia.s.paiva@gmail.com
 
-- ⚡ Fun fact: love driving 
+- ⚡ Fun fact: I love take things apart
 
 <br/>  
 
