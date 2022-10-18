@@ -7,6 +7,10 @@
 - 🔭 I’m currently working on [Github](https://github.com/anaspaiva)  
   
 - 🌱 I’m currently learning JavaScript and AngularJS  
+  
+- 📫 How to reach me: analeticia.s.paiva@gmail.com
+
+- ⚡ Fun fact: love driving 
 
 <br/>  
 
