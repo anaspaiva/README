@@ -2,7 +2,7 @@
   
 
 ## Rapidfire  
-<table><tr><td>
+
 
 - 🔭 I’m currently working on [Github](https://github.com/anaspaiva)  
   
@@ -29,14 +29,12 @@
 
 
 ## Github Stats  
-<table><tr><td width="37%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anaspaiva&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-</td><td  width="50%">
+<div width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=anaspaiva&show_icons=true&count_private=true&hide_border=true" align="center" width="35%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspaiva&hide_border=true&layout=compact" align="center" />
-</td></tr></table> 
+</div>
 
 
 ## Networks  
