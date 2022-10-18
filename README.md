@@ -19,19 +19,12 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/anaspaiva/github-profilinator)  
   
 
 - 🌱 I’m currently learning JavaScript and AngularJS  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -61,10 +54,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspaiva&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
