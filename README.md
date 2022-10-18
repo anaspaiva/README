@@ -45,11 +45,11 @@
 
 
 ## Github Stats  
-<table><tr><td width="50%">
+<table><tr><td width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anaspaiva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td  width="50%">
+</td><td  width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspaiva&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
@@ -62,4 +62,4 @@
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center" width="50%">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
