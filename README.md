@@ -3,8 +3,6 @@
 
 ## Rapidfire  
 
-
-- 🔭 I’m currently working on [Github](https://github.com/anaspaiva)  
   
 - 🌱 I’m currently learning JavaScript and AngularJS  
   
