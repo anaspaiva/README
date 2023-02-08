@@ -8,7 +8,7 @@
   
 - 📫 How to reach me: analeticia.s.paiva@gmail.com
 
-- ⚡ Fun fact: I love take things apart
+- ⚡ Fun fact: I love disassemble things
 
 <br/>  
 
