@@ -20,8 +20,8 @@
 </div>
 
 <div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a>  
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" height="40" /></a>  
 </div>
 
