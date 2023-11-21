@@ -2,9 +2,6 @@
   
 
 ## Rapidfire  
-
-  
-- 🌱 I’m currently learning JavaScript and AngularJS  
   
 - 📫 How to reach me: analeticia.s.paiva@gmail.com
 
